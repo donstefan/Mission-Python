@@ -130,5 +130,5 @@ dmypy.json
 
 gitlabkey
 gitlabkey.pub
-.idea
+.idea/
 /venv/

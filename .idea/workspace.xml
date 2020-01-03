@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7623625-dfc5-48c2-aead-2e7de08051e9" name="Default Changelist" comment="firs">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yield.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -66,8 +57,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+            <state relative-caret-position="584">
+              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -126,7 +126,6 @@
         <option value="$PROJECT_DIR$/helloworld.py" />
         <option value="$PROJECT_DIR$/exception.py" />
         <option value="$PROJECT_DIR$/functions.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/yield.py" />
         <option value="$PROJECT_DIR$/classes.py" />
         <option value="$PROJECT_DIR$/student.py" />
@@ -136,6 +135,7 @@
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/webapp/templates/index.html" />
         <option value="$PROJECT_DIR$/webapp/app.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -336,9 +336,9 @@
     <frame x="1266" y="411" width="1801" height="1157" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5868347" visible="true" weight="0.38483146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6904762" visible="true" weight="0.38483146" />
       <window_info id="Structure" order="1" sideWeight="0.41316527" side_tool="true" weight="0.38483146" />
-      <window_info id="Favorites" order="2" sideWeight="0.41316527" side_tool="true" visible="true" weight="0.38483146" />
+      <window_info id="Favorites" order="2" sideWeight="0.30952382" side_tool="true" visible="true" weight="0.38483146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27887323" />
@@ -347,7 +347,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32957748" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4994382" visible="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994382" visible="true" weight="0.32957748" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005618" side_tool="true" weight="0.32957748" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -362,9 +362,6 @@
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-366405355/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -463,10 +460,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+        <state relative-caret-position="584">
+          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
         </state>
       </provider>
     </entry>
