@@ -12,14 +12,15 @@ def students_page():
     if request.method == 'POST':
         new_student_id = request.form.get('student-id', '')
         new_student_name = request.form.get('name', '')
-        new_student_lastname = request.form.get('last-name','')
+        new_student_lastname = request.form.get('last-name', '')
 
-        new_student = Student(name=new_student_name, student_id=new_student_id)
+        new_student = Student(name=new_student_name, last_name=new_student_lastname, student_id=new_student_id)
         students.append(new_student)
 
         return redirect(url_for('students_page'))
 
     return render_template('index.html', students=students)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
